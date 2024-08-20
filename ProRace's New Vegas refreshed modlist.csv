@@ -1,145 +1,144 @@
-Mod_Priority,Mod_Name,Primary_Category,Mod_Nexus_URL,Mod_Version
-1,DLC: TribalPack,,,
-2,DLC: OldWorldBlues,,,
-3,DLC: MercenaryPack,,,
-4,DLC: LonesomeRoad,,,
-5,DLC: HonestHearts,,,
-6,DLC: GunRunnersArsenal,,,
-7,DLC: DeadMoney,,,
-8,DLC: ClassicPack,,,
-9,DLC: CaravanPack,,,
-10,FNV Mod Limit Fix,Crafting,https://www.nexusmods.com/newvegas/mods/68714,2.5.0.0
-11,OneTweak for FNV,,https://www.nexusmods.com/newvegas/mods/59266,d2022.5.19.0
-12,lStewieAl's Tweaks and Engine Fixes,,https://www.nexusmods.com/newvegas/mods/66347,9.21.0.0
-13,lStewieAl's Engine Optimizations,,https://www.nexusmods.com/newvegas/mods/80993,1.0.0.0
-14,Faster Sleep-Wait,,https://www.nexusmods.com/newvegas/mods/66785,2.0.0.0
-15,JohnnyGuitar NVSE,,https://www.nexusmods.com/newvegas/mods/66927,4.98.0.0
-16,kNVSE Animation Plugin,,https://www.nexusmods.com/newvegas/mods/71336,20.0.0.0
-17,JIP LN NVSE Plugin,,https://www.nexusmods.com/newvegas/mods/58277,57.30.0.0
-18,New Vegas Mesh Improvement Mod - NVMIM,Crafting,https://www.nexusmods.com/newvegas/mods/74295,f1.05
-19,Yukichigai Unofficial Patch - YUP - ES - Modificado,Crafting,https://www.nexusmods.com/newvegas/mods/51664,12.3.0.0
-20,Unofficial Patch NVSE Plus,Crafting,https://www.nexusmods.com/newvegas/mods/71239,1.3.3.0
-21,NVAC - New Vegas Anti Crash,Crafting,https://www.nexusmods.com/newvegas/mods/53635,7.5.1.0
-22,ISControl Enabler,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/75417,2.3.0.0
-23,NMFL,,,d2022.5.15.0
-24,NVTF - New Vegas Tick Fix,,https://www.nexusmods.com/newvegas/mods/66537,9.9.1.0j
-25,ShowOff xNVSE Plugin,,https://www.nexusmods.com/newvegas/mods/72541,1.75.0.0
-26,KEYWORDS,NPCs,https://www.nexusmods.com/newvegas/mods/83088,f1.01
-27,Vanilla Animations Weapon Scale Fix,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/83245,1.0.0.0
-28,Console Paste Support,,https://www.nexusmods.com/newvegas/mods/65906,1.0.0.0
-29,Improved Console (NVSE),,https://www.nexusmods.com/newvegas/mods/70801,3.0.0.0
-30,Depth of Field Fix - NVSE,,https://www.nexusmods.com/newvegas/mods/81200,1.1.0.0
-31,Traduccion_Mejorada_DLAN_DLC,,https://www.nexusmods.com/newvegas/mods/41195,f0.02
-32,No Main Story Line Ultimatums,,https://www.nexusmods.com/newvegas/mods/40478,d2023.12.17.0
-33,Oscar not hostile,,https://www.nexusmods.com/newvegas/mods/60716,1.0.0.0
-34,Followers-NCR Alliance Fix,,https://www.nexusmods.com/newvegas/mods/37311,1.0.0.0
-35,Primm Reputation Restored,,https://www.nexusmods.com/newvegas/mods/48918,1.1.0.0
-36,Immersive Hit Reactions - Makes Combat Responsive,,https://www.nexusmods.com/newvegas/mods/66646,2.2.0.0
-37,Real Recoil,,https://www.nexusmods.com/newvegas/mods/62153,1.2.1.0
-38,Real Recoil Re-Re-Calculated - With Recoil Cap,,https://www.nexusmods.com/newvegas/mods/86406,1.0.0.0
-39,Smooth True Iron Sights Camera,,https://www.nexusmods.com/newvegas/mods/69074,2.0.0.0
-40,Viewmodel Shake Fix - NVSE,,https://www.nexusmods.com/newvegas/mods/84443,1.2.0.0
-41,Iron Sights Aligned,,https://www.nexusmods.com/newvegas/mods/81933,4.2.0.0
-42,New Vegas Animation Overhaul Guns,,https://www.nexusmods.com/newvegas/mods/86354,1.0.5.0
-43,The Mod Configuration Menu,,https://www.nexusmods.com/newvegas/mods/42507,1.5.0.0
-44,UIO - User Interface Organizer,,https://www.nexusmods.com/newvegas/mods/57174,2.30.0.0
-45,JIP Improved Recipe Menu ESPless,,https://www.nexusmods.com/newvegas/mods/75920,1.20.0.0
-46,Vanilla HUD Remastered,,https://www.nexusmods.com/newvegas/mods/64102,1.83.0.0
-47,HUD Caps for FNV,,https://www.nexusmods.com/newvegas/mods/76740,1.4.1.0
-48,New T-51b Icons New Vegas,,https://www.nexusmods.com/newvegas/mods/59065,1.0.0.0
-49,Clean Companion Wheel,,https://www.nexusmods.com/newvegas/mods/70486,0.9.0.0
-50,World Map HD,,https://www.nexusmods.com/newvegas/mods/82979,1.0.0.0
-51,High Resolution Screens,,https://www.nexusmods.com/newvegas/mods/77989,1.1.0.0
-52,High Res Local Maps,,https://www.nexusmods.com/newvegas/mods/77963,1.2.0.0
-53,JVO - Just Visual Objectives,,https://www.nexusmods.com/newvegas/mods/66901,4.2.0.0j
-54,WTH - Weapon Textures from Heaven,Companions,https://www.nexusmods.com/newvegas/mods/69837,1.1.0.0
-55,JHM - Just Hit Marker,,https://www.nexusmods.com/newvegas/mods/66667,4.1.0.0
-56,JDC - Just Dynamic Crosshair,,https://www.nexusmods.com/newvegas/mods/66676,4.3.0.0d
-57,Subtle Camera Motion,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/67728,1.0.0.0
-58,NCR Trooper Overhaul,Mercantile,https://www.nexusmods.com/newvegas/mods/54978,1.0.0.0
-59,Power Armor Visual Enhancement,Companions,https://www.nexusmods.com/newvegas/mods/74786,2.1.0.0
-60,Power Armor Visual Enhancement - Compatibility Plugins,,https://www.nexusmods.com/newvegas/mods/74786,1.0.0.0
-61,Fallout Character Overhaul,,https://www.nexusmods.com/newvegas/mods/54460,f3.01
-62,FCO - The Last Few Edits,Stealth,https://www.nexusmods.com/newvegas/mods/63465,1.2.0.0
-63,FCO Fallout Character Overhaul - Compatiblity Patches for YUP and More,,https://www.nexusmods.com/newvegas/mods/61689,d2022.5.15.0
-64,FNV Realistic Wasteland Lighting,,https://www.nexusmods.com/newvegas/mods/52037,5.542.0.0
-65,NMCs_Texture_Pack_For_New_Vegas,Companions,https://www.nexusmods.com/newvegas/mods/43135,1.0.0.0
-66,Mojave Sandy Desert,Companions,https://www.nexusmods.com/newvegas/mods/55328,2.10.0.0
-67,Casino Suits Fix,Crafting,https://www.nexusmods.com/newvegas/mods/45410,1.2.0.0
-68,Lucky 38 Creepy Ambience Fix,Locations,https://www.nexusmods.com/newvegas/mods/60513,1.1.0.0
-69,Lucky 38 Suite No Floating Particles,,https://www.nexusmods.com/newvegas/mods/35236,d2022.4.20.0
-70,Lucky 38 E3 Lights Restored,,https://www.nexusmods.com/newvegas/mods/66725,0.1.0.0
-71,Lucky 38 Suite Reloaded v5,Shader Presets,https://www.nexusmods.com/newvegas/mods/66087,5.4.1.0
-72,Classic Canteen (Water Flask Retexture),,https://www.nexusmods.com/newvegas/mods/80409,1.1.0.0
-73,Animated Ingestibles,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/70139,2.8.0.0
-74,High Res Vanilla Posters and Graffiti,,https://www.nexusmods.com/newvegas/mods/64589,0.8.0.0
-75,Motorcycles Remastered,,https://www.nexusmods.com/newvegas/mods/81262,1.1.0.0
-76,Motorcycle Remastered - Retextured,,https://www.nexusmods.com/newvegas/mods/81343,1.0.0.0
-77,Project Reality Footsteps,,https://www.nexusmods.com/newvegas/mods/68430,2.1.0.0
-78,All Weapon Sounds Overhaul,,https://www.nexusmods.com/newvegas/mods/62870,Fixed
-79,All Weapon Sound Overhaul Modern Edition Redone - AWSOMER,,https://www.nexusmods.com/newvegas/mods/84235,1.4.0.0
-80,Pip-Boy 2501,,https://www.nexusmods.com/newvegas/mods/65252,d2022.5.25.0
-81,Handheld Fixes,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/76009,f0.09-BETA
-82,YAPR - Yet Another Pipboy Remover,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/76009,d2022.5.25.0
-83,BH SIG MCX Spear NGSW - Assault Rifle,Castles & Mansions,https://www.nexusmods.com/newvegas/mods/78045,f1.01
-84,HK G36K,Castles & Mansions,https://www.nexusmods.com/newvegas/mods/56125,1.0.0.0
-85,Millenias HK G36K with Hitman47101s Animations Patch KNVSE,Castles & Mansions,https://www.nexusmods.com/newvegas/mods/75977,1.0.0.0
-86,CETME LC 2 Spanish assault rifle,Castles & Mansions,https://www.nexusmods.com/newvegas/mods/47934,0.1.0.0
-87,Ani_Cyberpunk Malorian Arms 3516 kNVSE Set,,https://www.nexusmods.com/newvegas/mods/79526,1.1.0.0
-88,Malorian Arms 3516 - The King's Rebel Path,,https://www.nexusmods.com/newvegas/mods/79519,1.2.0.0
-89,Malpais Legion Camp,,https://www.nexusmods.com/newvegas/mods/62682,0.2.0.0
-90,Player Headtracking,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/66741,0.1.0.0b
-91,3rd Person Camera Overhaul,,https://www.nexusmods.com/newvegas/mods/79883,2.3.0.0
-92,FOV Slider,,https://www.nexusmods.com/newvegas/mods/55085,2.9.0.0
-93,Aqua Performa - Strip Performance Fix,,https://www.nexusmods.com/newvegas/mods/78617,1.0.0.0
-94,BSO - A Brightweight Strip Overhaul and Brightweight Open,,https://www.nexusmods.com/newvegas/mods/72904,2.25.0.0
-95,JIP Selective-Fire,Castles & Mansions,https://www.nexusmods.com/newvegas/mods/49478,1.21.0.0
-96,Simple Open Strip,,https://www.nexusmods.com/newvegas/mods/73127,1.6.0.0
-97,Complete Respec,,https://www.nexusmods.com/newvegas/mods/59629,3.22.0.0
-98,Jury-rigged Alien Blaster,Castles & Mansions,https://www.nexusmods.com/newvegas/mods/70960,1.0.1.0
-99,Titans of The New West,,https://www.nexusmods.com/newvegas/mods/78688,2.1.13.0
-100,JVS - Just Vanilla Sprint,,https://www.nexusmods.com/newvegas/mods/66960,4.2.0.0g
-101,Just Sprint Plus - Expansion for JAM and JVS,,https://www.nexusmods.com/newvegas/mods/83797,f1.075
-102,JWH - Just Weapon Wheel,,https://www.nexusmods.com/newvegas/mods/67460,4.2.0.0k
-103,JLM - Just Loot Menu,,https://www.nexusmods.com/newvegas/mods/68084,4.4.0.0
-104,My Chrysalis Highwayman at The Wrecked Highwayman location,Locations,https://www.nexusmods.com/newvegas/mods/66328,1.0.0.0
-105,New Vegas - Enhanced Camera,,https://www.nexusmods.com/newvegas/mods/55334,1.4.0.0c
-106,The Lucky 38 Map Marker,NPCs,https://www.nexusmods.com/newvegas/mods/48263,1.0.0.0
-107,Retrievable Throwables,Castles & Mansions,https://www.nexusmods.com/newvegas/mods/66461,0.8.0.0b
-108,ED-E be quiet,Locations,https://www.nexusmods.com/newvegas/mods/45722,2.0.0.0
-109,Ultimate Invisible Wall Remover,,https://www.nexusmods.com/newvegas/mods/48511,1.1.0.0
-110,Securitrons On Alert,Companions,https://www.nexusmods.com/newvegas/mods/69245,4.5.1.0
-111,Securitrons Lip Sync - Meshes Only,,,d2022.5.10.0
-112,Strip Lights Region Fix,,https://www.nexusmods.com/newvegas/mods/73596,1.3.0.0
-113,B42 Quickthrow - an alternative grenade hotkey mod,,https://www.nexusmods.com/newvegas/mods/66686,3.1.0.0b
-114,Quickthrow Stylized HUD Icons,,https://www.nexusmods.com/newvegas/mods/66876,1.1.0.0
-115,B42 Notify - Corner Messages Overhaul - ESPless,,https://www.nexusmods.com/newvegas/mods/80085,0.2.0.0b
-116,B42 Inspect - aka Animated Ammo and Weapon Condition Checking,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/71624,f1.02
-117,B42 Dropmag and One in the chamber,,https://www.nexusmods.com/newvegas/mods/75461,1.2.0.0b
-118,B42 Interact - Animated Items and Interactions Framework - ESPless,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/83119,0.14.0.0b
-119,B42 Loot - Animated Physical Item Pickup - ESPless,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/82369,0.15.0.0b
-120,B42 Descriptions aka Pip-Info,,https://www.nexusmods.com/newvegas/mods/68049,0.3.0.0
-121,B42 Optics - ESPless,,https://www.nexusmods.com/newvegas/mods/81641,0.20.0.0b
-122,B42 True Leaning - Contextual - ESPless,,https://www.nexusmods.com/newvegas/mods/81872,0.20.0.0b
-123,B42 Wristwatch,,https://www.nexusmods.com/newvegas/mods/67890,1.2.0.0
-124,Recent Loot Log - ESPless,,https://www.nexusmods.com/newvegas/mods/80180,0.1.0.0b
-125,Hit - Locomotion,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/76097,1.1.0.0
-126,Hit - Cowboy Victor,Companions,https://www.nexusmods.com/newvegas/mods/76586,1.0.0.0
-127,Falling And Landing Animated,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/76854,1.0.0.0
-128,Chinese Stealth Armor Restoration,Mercantile,https://www.nexusmods.com/newvegas/mods/64239,1.0.0.0S
-129,Companion Equipment Modifier,Skills & Levelling,https://www.nexusmods.com/newvegas/mods/47615,1.0.0.0
-130,Decrucifixion,,https://www.nexusmods.com/newvegas/mods/39289,1.1.0.0
-131,EXE - Effect teXtures Enhanced,Companions,https://www.nexusmods.com/newvegas/mods/62989,2.0.0.0
-132,IMPACT,,,d2022.5.31.0
-133,Retro Radscorpions V1,Companions,https://www.nexusmods.com/fallout3/mods/521,d2022.6.5.0
-134,Camp McCarran Animated Monorail,Weather & Lighting,https://www.nexusmods.com/newvegas/mods/70213,f2.00-update
-135,NV Monorail Project,,https://www.nexusmods.com/newvegas/mods/66243,f3.00
-136,Diagonal movement,,https://www.nexusmods.com/newvegas/mods/64333,0.6.0.0b
-137,360 Movement,,https://www.nexusmods.com/newvegas/mods/71940,1.2.0.0
-138,NV Compatibility Skeleton,,https://www.nexusmods.com/newvegas/mods/68776,13.0.0.0
-139,FlashlightNVSE,,,d2023.12.16.0
-140,I Fought the Law - NCR Start -VNV,,https://www.nexusmods.com/newvegas/mods/52785,1.0.0.0
-141,Pause Menu HD,,https://www.nexusmods.com/newvegas/mods/63934,1.0.0.0
-142,Canvas Backpacks - FNV - TTW,,https://www.nexusmods.com/newvegas/mods/71510,2.0.0.0
-143,CIBS - Customizable Integrated Backpack System,,https://www.nexusmods.com/newvegas/mods/75218,4.1.4.0
-
+Mod_Priority,Mod_Name,Mod_Nexus_URL,Mod_Version
+1,DLC: TribalPack,,
+2,DLC: OldWorldBlues,,
+3,DLC: MercenaryPack,,
+4,DLC: LonesomeRoad,,
+5,DLC: HonestHearts,,
+6,DLC: GunRunnersArsenal,,
+7,DLC: DeadMoney,,
+8,DLC: ClassicPack,,
+9,DLC: CaravanPack,,
+10,FNV Mod Limit Fix,https://www.nexusmods.com/newvegas/mods/68714,2.5.0.0
+11,OneTweak for FNV,https://www.nexusmods.com/newvegas/mods/59266,d2022.5.19.0
+12,lStewieAl's Tweaks and Engine Fixes,https://www.nexusmods.com/newvegas/mods/66347,9.21.0.0
+13,lStewieAl's Engine Optimizations,https://www.nexusmods.com/newvegas/mods/80993,1.0.0.0
+14,Faster Sleep-Wait,https://www.nexusmods.com/newvegas/mods/66785,2.0.0.0
+15,JohnnyGuitar NVSE,https://www.nexusmods.com/newvegas/mods/66927,4.98.0.0
+16,kNVSE Animation Plugin,https://www.nexusmods.com/newvegas/mods/71336,20.0.0.0
+17,JIP LN NVSE Plugin,https://www.nexusmods.com/newvegas/mods/58277,57.30.0.0
+18,New Vegas Mesh Improvement Mod - NVMIM,https://www.nexusmods.com/newvegas/mods/74295,f1.05
+19,Yukichigai Unofficial Patch - YUP - ES - Modificado,https://www.nexusmods.com/newvegas/mods/51664,12.3.0.0
+20,Unofficial Patch NVSE Plus,https://www.nexusmods.com/newvegas/mods/71239,1.3.3.0
+21,NVAC - New Vegas Anti Crash,https://www.nexusmods.com/newvegas/mods/53635,7.5.1.0
+22,ISControl Enabler,https://www.nexusmods.com/newvegas/mods/75417,2.3.0.0
+23,NMFL,,d2022.5.15.0
+24,NVTF - New Vegas Tick Fix,https://www.nexusmods.com/newvegas/mods/66537,9.9.1.0j
+25,ShowOff xNVSE Plugin,https://www.nexusmods.com/newvegas/mods/72541,1.75.0.0
+26,KEYWORDS,https://www.nexusmods.com/newvegas/mods/83088,f1.01
+27,Vanilla Animations Weapon Scale Fix,https://www.nexusmods.com/newvegas/mods/83245,1.0.0.0
+28,Console Paste Support,https://www.nexusmods.com/newvegas/mods/65906,1.0.0.0
+29,Improved Console (NVSE),https://www.nexusmods.com/newvegas/mods/70801,3.0.0.0
+30,Depth of Field Fix - NVSE,https://www.nexusmods.com/newvegas/mods/81200,1.1.0.0
+31,Traduccion_Mejorada_DLAN_DLC,https://www.nexusmods.com/newvegas/mods/41195,f0.02
+32,No Main Story Line Ultimatums,https://www.nexusmods.com/newvegas/mods/40478,d2023.12.17.0
+33,Oscar not hostile,https://www.nexusmods.com/newvegas/mods/60716,1.0.0.0
+34,Followers-NCR Alliance Fix,https://www.nexusmods.com/newvegas/mods/37311,1.0.0.0
+35,Primm Reputation Restored,https://www.nexusmods.com/newvegas/mods/48918,1.1.0.0
+36,Immersive Hit Reactions - Makes Combat Responsive,https://www.nexusmods.com/newvegas/mods/66646,2.2.0.0
+37,Real Recoil,https://www.nexusmods.com/newvegas/mods/62153,1.2.1.0
+38,Real Recoil Re-Re-Calculated - With Recoil Cap,https://www.nexusmods.com/newvegas/mods/86406,1.0.0.0
+39,Smooth True Iron Sights Camera,https://www.nexusmods.com/newvegas/mods/69074,2.0.0.0
+40,Viewmodel Shake Fix - NVSE,https://www.nexusmods.com/newvegas/mods/84443,1.2.0.0
+41,Iron Sights Aligned,https://www.nexusmods.com/newvegas/mods/81933,4.2.0.0
+42,New Vegas Animation Overhaul Guns,https://www.nexusmods.com/newvegas/mods/86354,1.0.5.0
+43,The Mod Configuration Menu,https://www.nexusmods.com/newvegas/mods/42507,1.5.0.0
+44,UIO - User Interface Organizer,https://www.nexusmods.com/newvegas/mods/57174,2.30.0.0
+45,JIP Improved Recipe Menu ESPless,https://www.nexusmods.com/newvegas/mods/75920,1.20.0.0
+46,Vanilla HUD Remastered,https://www.nexusmods.com/newvegas/mods/64102,1.83.0.0
+47,HUD Caps for FNV,https://www.nexusmods.com/newvegas/mods/76740,1.4.1.0
+48,New T-51b Icons New Vegas,https://www.nexusmods.com/newvegas/mods/59065,1.0.0.0
+49,Clean Companion Wheel,https://www.nexusmods.com/newvegas/mods/70486,0.9.0.0
+50,World Map HD,https://www.nexusmods.com/newvegas/mods/82979,1.0.0.0
+51,High Resolution Screens,https://www.nexusmods.com/newvegas/mods/77989,1.1.0.0
+52,High Res Local Maps,https://www.nexusmods.com/newvegas/mods/77963,1.2.0.0
+53,JVO - Just Visual Objectives,https://www.nexusmods.com/newvegas/mods/66901,4.2.0.0j
+54,WTH - Weapon Textures from Heaven,https://www.nexusmods.com/newvegas/mods/69837,1.1.0.0
+55,JHM - Just Hit Marker,https://www.nexusmods.com/newvegas/mods/66667,4.1.0.0
+56,JDC - Just Dynamic Crosshair,https://www.nexusmods.com/newvegas/mods/66676,4.3.0.0d
+57,Subtle Camera Motion,https://www.nexusmods.com/newvegas/mods/67728,1.0.0.0
+58,NCR Trooper Overhaul,https://www.nexusmods.com/newvegas/mods/54978,1.0.0.0
+59,Power Armor Visual Enhancement,https://www.nexusmods.com/newvegas/mods/74786,2.1.0.0
+60,Power Armor Visual Enhancement - Compatibility Plugins,https://www.nexusmods.com/newvegas/mods/74786,1.0.0.0
+61,Fallout Character Overhaul,https://www.nexusmods.com/newvegas/mods/54460,f3.01
+62,FCO - The Last Few Edits,https://www.nexusmods.com/newvegas/mods/63465,1.2.0.0
+63,FCO Fallout Character Overhaul - Compatiblity Patches for YUP and More,https://www.nexusmods.com/newvegas/mods/61689,d2022.5.15.0
+64,FNV Realistic Wasteland Lighting,https://www.nexusmods.com/newvegas/mods/52037,5.542.0.0
+65,NMCs_Texture_Pack_For_New_Vegas,https://www.nexusmods.com/newvegas/mods/43135,1.0.0.0
+66,Mojave Sandy Desert,https://www.nexusmods.com/newvegas/mods/55328,2.10.0.0
+67,Casino Suits Fix,https://www.nexusmods.com/newvegas/mods/45410,1.2.0.0
+68,Lucky 38 Creepy Ambience Fix,https://www.nexusmods.com/newvegas/mods/60513,1.1.0.0
+69,Lucky 38 Suite No Floating Particles,https://www.nexusmods.com/newvegas/mods/35236,d2022.4.20.0
+70,Lucky 38 E3 Lights Restored,https://www.nexusmods.com/newvegas/mods/66725,0.1.0.0
+71,Lucky 38 Suite Reloaded v5,https://www.nexusmods.com/newvegas/mods/66087,5.4.1.0
+72,Classic Canteen (Water Flask Retexture),https://www.nexusmods.com/newvegas/mods/80409,1.1.0.0
+73,Animated Ingestibles,https://www.nexusmods.com/newvegas/mods/70139,2.8.0.0
+74,High Res Vanilla Posters and Graffiti,https://www.nexusmods.com/newvegas/mods/64589,0.8.0.0
+75,Motorcycles Remastered,https://www.nexusmods.com/newvegas/mods/81262,1.1.0.0
+76,Motorcycle Remastered - Retextured,https://www.nexusmods.com/newvegas/mods/81343,1.0.0.0
+77,Project Reality Footsteps,https://www.nexusmods.com/newvegas/mods/68430,2.1.0.0
+78,All Weapon Sounds Overhaul,https://www.nexusmods.com/newvegas/mods/62870,Fixed
+79,All Weapon Sound Overhaul Modern Edition Redone - AWSOMER,https://www.nexusmods.com/newvegas/mods/84235,1.4.0.0
+80,Pip-Boy 2501,https://www.nexusmods.com/newvegas/mods/65252,d2022.5.25.0
+81,Handheld Fixes,https://www.nexusmods.com/newvegas/mods/76009,f0.09-BETA
+82,YAPR - Yet Another Pipboy Remover,https://www.nexusmods.com/newvegas/mods/76009,d2022.5.25.0
+83,BH SIG MCX Spear NGSW - Assault Rifle,https://www.nexusmods.com/newvegas/mods/78045,f1.01
+84,HK G36K,https://www.nexusmods.com/newvegas/mods/56125,1.0.0.0
+85,Millenias HK G36K with Hitman47101s Animations Patch KNVSE,https://www.nexusmods.com/newvegas/mods/75977,1.0.0.0
+86,CETME LC 2 Spanish assault rifle,https://www.nexusmods.com/newvegas/mods/47934,0.1.0.0
+87,Ani_Cyberpunk Malorian Arms 3516 kNVSE Set,https://www.nexusmods.com/newvegas/mods/79526,1.1.0.0
+88,Malorian Arms 3516 - The King's Rebel Path,https://www.nexusmods.com/newvegas/mods/79519,1.2.0.0
+89,Malpais Legion Camp,https://www.nexusmods.com/newvegas/mods/62682,0.2.0.0
+90,Player Headtracking,https://www.nexusmods.com/newvegas/mods/66741,0.1.0.0b
+91,3rd Person Camera Overhaul,https://www.nexusmods.com/newvegas/mods/79883,2.3.0.0
+92,FOV Slider,https://www.nexusmods.com/newvegas/mods/55085,2.9.0.0
+93,Aqua Performa - Strip Performance Fix,https://www.nexusmods.com/newvegas/mods/78617,1.0.0.0
+94,BSO - A Brightweight Strip Overhaul and Brightweight Open,https://www.nexusmods.com/newvegas/mods/72904,2.25.0.0
+95,JIP Selective-Fire,https://www.nexusmods.com/newvegas/mods/49478,1.21.0.0
+96,Simple Open Strip,https://www.nexusmods.com/newvegas/mods/73127,1.6.0.0
+97,Complete Respec,https://www.nexusmods.com/newvegas/mods/59629,3.22.0.0
+98,Jury-rigged Alien Blaster,https://www.nexusmods.com/newvegas/mods/70960,1.0.1.0
+99,Titans of The New West,https://www.nexusmods.com/newvegas/mods/78688,2.1.13.0
+100,JVS - Just Vanilla Sprint,https://www.nexusmods.com/newvegas/mods/66960,4.2.0.0g
+101,Just Sprint Plus - Expansion for JAM and JVS,https://www.nexusmods.com/newvegas/mods/83797,f1.075
+102,JWH - Just Weapon Wheel,https://www.nexusmods.com/newvegas/mods/67460,4.2.0.0k
+103,JLM - Just Loot Menu,https://www.nexusmods.com/newvegas/mods/68084,4.4.0.0
+104,My Chrysalis Highwayman at The Wrecked Highwayman location,https://www.nexusmods.com/newvegas/mods/66328,1.0.0.0
+105,New Vegas - Enhanced Camera,https://www.nexusmods.com/newvegas/mods/55334,1.4.0.0c
+106,The Lucky 38 Map Marker,https://www.nexusmods.com/newvegas/mods/48263,1.0.0.0
+107,Retrievable Throwables,https://www.nexusmods.com/newvegas/mods/66461,0.8.0.0b
+108,ED-E be quiet,https://www.nexusmods.com/newvegas/mods/45722,2.0.0.0
+109,Ultimate Invisible Wall Remover,https://www.nexusmods.com/newvegas/mods/48511,1.1.0.0
+110,Securitrons On Alert,https://www.nexusmods.com/newvegas/mods/69245,4.5.1.0
+111,Securitrons Lip Sync - Meshes Only,,d2022.5.10.0
+112,Strip Lights Region Fix,https://www.nexusmods.com/newvegas/mods/73596,1.3.0.0
+113,B42 Quickthrow - an alternative grenade hotkey mod,https://www.nexusmods.com/newvegas/mods/66686,3.1.0.0b
+114,Quickthrow Stylized HUD Icons,https://www.nexusmods.com/newvegas/mods/66876,1.1.0.0
+115,B42 Notify - Corner Messages Overhaul - ESPless,https://www.nexusmods.com/newvegas/mods/80085,0.2.0.0b
+116,B42 Inspect - aka Animated Ammo and Weapon Condition Checking,https://www.nexusmods.com/newvegas/mods/71624,f1.02
+117,B42 Dropmag and One in the chamber,https://www.nexusmods.com/newvegas/mods/75461,1.2.0.0b
+118,B42 Interact - Animated Items and Interactions Framework - ESPless,https://www.nexusmods.com/newvegas/mods/83119,0.14.0.0b
+119,B42 Loot - Animated Physical Item Pickup - ESPless,https://www.nexusmods.com/newvegas/mods/82369,0.15.0.0b
+120,B42 Descriptions aka Pip-Info,https://www.nexusmods.com/newvegas/mods/68049,0.3.0.0
+121,B42 Optics - ESPless,https://www.nexusmods.com/newvegas/mods/81641,0.20.0.0b
+122,B42 True Leaning - Contextual - ESPless,https://www.nexusmods.com/newvegas/mods/81872,0.20.0.0b
+123,B42 Wristwatch,https://www.nexusmods.com/newvegas/mods/67890,1.2.0.0
+124,Recent Loot Log - ESPless,https://www.nexusmods.com/newvegas/mods/80180,0.1.0.0b
+125,Hit - Locomotion,https://www.nexusmods.com/newvegas/mods/76097,1.1.0.0
+126,Hit - Cowboy Victor,https://www.nexusmods.com/newvegas/mods/76586,1.0.0.0
+127,Falling And Landing Animated,https://www.nexusmods.com/newvegas/mods/76854,1.0.0.0
+128,Chinese Stealth Armor Restoration,https://www.nexusmods.com/newvegas/mods/64239,1.0.0.0S
+129,Companion Equipment Modifier,https://www.nexusmods.com/newvegas/mods/47615,1.0.0.0
+130,Decrucifixion,https://www.nexusmods.com/newvegas/mods/39289,1.1.0.0
+131,EXE - Effect teXtures Enhanced,https://www.nexusmods.com/newvegas/mods/62989,2.0.0.0
+132,IMPACT,,d2022.5.31.0
+133,Retro Radscorpions V1,https://www.nexusmods.com/fallout3/mods/521,d2022.6.5.0
+134,Camp McCarran Animated Monorail,https://www.nexusmods.com/newvegas/mods/70213,f2.00-update
+135,NV Monorail Project,https://www.nexusmods.com/newvegas/mods/66243,f3.00
+136,Diagonal movement,https://www.nexusmods.com/newvegas/mods/64333,0.6.0.0b
+137,360 Movement,https://www.nexusmods.com/newvegas/mods/71940,1.2.0.0
+138,NV Compatibility Skeleton,https://www.nexusmods.com/newvegas/mods/68776,13.0.0.0
+139,FlashlightNVSE,,d2023.12.16.0
+140,I Fought the Law - NCR Start -VNV,https://www.nexusmods.com/newvegas/mods/52785,1.0.0.0
+141,Pause Menu HD,https://www.nexusmods.com/newvegas/mods/63934,1.0.0.0
+142,Canvas Backpacks - FNV - TTW,https://www.nexusmods.com/newvegas/mods/71510,2.0.0.0
+143,CIBS - Customizable Integrated Backpack System,https://www.nexusmods.com/newvegas/mods/75218,4.1.4.0
