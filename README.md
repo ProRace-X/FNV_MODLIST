@@ -1,4 +1,4 @@
-# ProRace's Enhanced Vanilla New Vegas
+# ProRace's New Vegas Refreshed Modlist
 Hello!
 This is a modlist I've created over the years.
 
